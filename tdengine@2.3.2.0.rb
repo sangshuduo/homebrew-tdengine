@@ -1,4 +1,4 @@
-class Tdengine < Formula
+class TdengineAT2320 < Formula
   env :std
   desc "An open-source big data platform designed and optimized for the Internet of Things (IoT)."
   homepage "https://github.com/taosdata/TDengine"
